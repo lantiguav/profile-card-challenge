@@ -30,7 +30,7 @@ main {
 .bg-top,
 .bg-bottom {
   position: absolute;
-  width: 90rem;
+  width: 70rem;
 }
 
 .bg-top {
@@ -42,7 +42,6 @@ main {
 .bg-bottom {
   bottom: 0;
   right: 0;
-  width: 90rem;
   translate: 30% 60%;
 }
 
@@ -59,7 +58,7 @@ main {
   grid-template-columns: 1fr;
   place-items: center;
   grid-template-rows:
-    [bg-start] 8rem
+    [bg-start] 6rem
     [avatar-start] 3rem 
     [bg-end] 3rem 
     [avatar-end] 1fr 
