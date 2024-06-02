@@ -84,7 +84,7 @@ main {
 
 .card__main {
   width: 100%;
-  padding: 2rem 1rem;
+  padding: 1.5rem 1rem;
   border-bottom: 1px var(--gray-100) solid;
 }
 
@@ -110,7 +110,7 @@ main {
 .card__stats {
   display: flex;
   gap: 3rem;
-  padding: 2rem 1rem;
+  padding: 1.5rem 1rem;
   justify-content: center;
   width: 100%;
 }
