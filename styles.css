@@ -50,7 +50,7 @@ main {
   display: grid;
   z-index: 2;
   background-color: var(--white);
-  box-shadow: 1rem 1rem 50rem 1rem var(--gray-500);
+  box-shadow: 1rem 1rem 2rem 0.5rem rgba(105,108,117,0.27);
   border-radius: 1rem;
   overflow: hidden;
   width: 100%;
