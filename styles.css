@@ -53,8 +53,7 @@ main {
   border-radius: 1rem;
   overflow: hidden;
   width: 100%;
-  max-width: 25rem;
-  min-height: 25rem;
+  max-width: 24rem;
   grid-template-columns: 1fr;
   place-items: center;
   grid-template-rows:
