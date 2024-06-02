@@ -25,8 +25,8 @@ Profile card created with CSS Grid
 
 ### Links
 
-- Solution URL: [TBD](TBD)
-- Live Site URL: [TBD](TBD)
+- Solution URL: [https://www.frontendmentor.io/solutions/profile-card-with-named-grid-lines-Y9E1kZ4Jkq](https://www.frontendmentor.io/solutions/profile-card-with-named-grid-lines-Y9E1kZ4Jkq)
+- Live Site URL: [https://profile-card-challenge-gules.vercel.app/](https://profile-card-challenge-gules.vercel.app/)
 
 ## My process
 
