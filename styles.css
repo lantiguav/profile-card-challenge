@@ -11,7 +11,7 @@
 body {
   background-color: var(--cyan-500);
   position: relative;
-  height: 100vh;
+  height: 100dvh;
   width: 100vw;
   font-family: "Kumbh Sans", sans-serif;
   color: var(--blue-900);
